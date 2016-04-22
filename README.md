@@ -1,4 +1,4 @@
-/# Girls-Who-Code
+# Girls-Who-Code
 <DOCTYPE HTML> 
 <html>
 <head> </head>
