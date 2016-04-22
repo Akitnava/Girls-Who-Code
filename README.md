@@ -1,4 +1,10 @@
 # Girls-Who-Code
-<p> A file for Girls Who Code documents </p>
-<img src="https://i.ytimg.com/vi/fTsdKNiS1SQ/maxresdefault.jpg"/>
-I will be creating my girls who code files here
+<DOCTYPE HTML> 
+<html>
+<head> </head>
+<body>
+<h> WATERPOLO </h>
+<a href="http://www.usawaterpolo.org/resources/understanding-the-game.html">Water Polo Rules</a>
+<canvas id="canvasNumberOne" width="255" height="255"></canvas> 
+</body>
+</html>
