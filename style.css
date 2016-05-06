@@ -1,1 +1,15 @@
+h1 {
+  width: 800px;
+}
 
+.nav {
+  text-align: center;
+  margin: 0 auto; 
+}
+
+.nav > div {
+  background: #aaeffa;
+  float: left;
+  padding: 10px;
+  border: 4px dashed purple;
+  border-radius: 4px;
