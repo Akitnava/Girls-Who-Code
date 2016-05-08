@@ -2,7 +2,9 @@ h1 {
     color: yellow;
 }
 
-p {
-    background-image: http://previews.123rf.com/images/mik122/mik1221101/mik122110100051/8705135-swimming-pool-with-ripple-turquoise-water-background-Stock-Photo.jpg;
+div{
+    background: http://360tv.ru/media/article_media/20150320/b9ec1047.jpg;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
