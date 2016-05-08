@@ -11,7 +11,9 @@ body {
     color: yellow;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-
     
 }
 
+p {
+    color: yellow;
+}
