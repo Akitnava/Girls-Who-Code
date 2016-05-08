@@ -2,8 +2,8 @@ h1 {
     color: yellow;
 }
 
-div {
-    background:"http://360tv.ru/media/article_media/20150320/b9ec1047.jpg";
+body {
+    background-image:"http://360tv.ru/media/article_media/20150320/b9ec1047.jpg";
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
