@@ -14,6 +14,6 @@ body {
     
 }
 
-p {
+p.monospace {
     color: yellow;
 }
