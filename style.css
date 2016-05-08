@@ -1,9 +1,13 @@
 h1 {
     color: yellow;
-     font-family: "Times New Roman", Times, serif;
+     
 }
 
 body {
     color: yellow;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    
 }
 
