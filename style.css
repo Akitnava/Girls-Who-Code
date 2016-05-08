@@ -4,8 +4,15 @@ h1 {
     font-family: courier
 ;
     font-size: 300%;
-     
 }
+     
+h3 {
+     font-family: courier
+;
+font-size: 120%;
+    
+}
+
 
 body {
     color: yellow;
